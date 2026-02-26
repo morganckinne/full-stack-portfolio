@@ -7,7 +7,7 @@ function Footer() {
   return (
     <footer>
       <div>
-        <a href="https://github.com/morgankinne" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+        <a href="https://github.com/morganckinne" target="_blank" rel="noreferrer"><GitHubIcon/></a>
         <a href="https://www.linkedin.com/in/morganckinne/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
       </div>
     </footer>

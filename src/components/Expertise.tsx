@@ -50,7 +50,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Full Stack Web Development</h3>
-                    <p>Building modern web applications using React and .NET/Python APIs. Experienced designing RESTful services, managing stateful frontends, and integrating secure backend workflows.</p>
+                    <p>Building modern web applications using React and .NET/Python APIs. Experienced designing RESTful services, integrating secure backend workflows, and managing stateful frontends.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
