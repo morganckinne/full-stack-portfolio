@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio-template",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://morganckinne.github.io/full-stack-portfolio",
   "dependencies": {
     "@emotion/react": "^11.11.4",
