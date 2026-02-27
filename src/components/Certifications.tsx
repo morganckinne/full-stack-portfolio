@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 import '../assets/styles/Certifications.scss';
 
-// function Certifications() {
 const Certifications: React.FC = () => {
     useEffect(() => {
     const scriptId = "credly-embed";
@@ -16,7 +15,7 @@ const Certifications: React.FC = () => {
     }, []);
   return (
     // <div className="container">
-    <div className="certification-container">
+    <div className="certification-container" id="certifications">
         <h1>Certifications</h1>
         <div className="certification-grid">
             <div className="certification" data-iframe-width="300" data-iframe-height="600" data-share-badge-id="37c1856f-fb9b-47c8-afc5-acc90cac3df8" data-share-badge-host="https://www.credly.com"></div>
