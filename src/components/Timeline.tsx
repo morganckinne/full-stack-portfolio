@@ -21,6 +21,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Full-Stack Software Engineer</h3>
+            <h4 className="vertical-timeline-element-subtitle">CoStar Group</h4>
             <h4 className="vertical-timeline-element-subtitle">Richmond, VA</h4>
             <p>
               Full-stack Web Development, API Development, Data Engineering, Cloud Infrastructure & DevOps
@@ -33,6 +34,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Software Engineering Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">The Washington Post</h4>
             <h4 className="vertical-timeline-element-subtitle">Washington, DC | Remote</h4>
             <p>
               Full-stack Web Development, API Development, User Experience
@@ -44,7 +46,8 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Intern</h3>
+            <h3 className="vertical-timeline-element-title">Data Intern</h3>            
+            <h4 className="vertical-timeline-element-subtitle">Northrop Grumman</h4>
             <h4 className="vertical-timeline-element-subtitle">McLean, VA</h4>
             <p>
               Data Engineering, Data Visualization, Business Presentation
